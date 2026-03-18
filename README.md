@@ -1,5 +1,5 @@
 <h1 align="left">Ciao 👋, sono Matteo</h1>
-<h3 align="left">Un Web Developer dall'Italia!</h3>
+<h3 align="left">Aiuto professionisti e piccole imprese a migliorare la propria raggiungibilità e aumentare i contatti con potenziali clienti attraverso un sito web personalizzato, senza template anonimi e senza dover capire nulla di tecnologia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mattescalda&label=Profile%20views&color=0e75b6&style=flat" alt="mattescalda" /> </p>
 
